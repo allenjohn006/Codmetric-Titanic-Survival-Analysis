@@ -1,4 +1,4 @@
-# Titanic Survival Analysis 
+# Titanic Survival Analysis [Codemetric Task-1]
 
 A comprehensive data analysis internship task exploring passenger survival patterns on the RMS Titanic. This project utilizes the famous Titanic dataset to uncover insights about survival factors through exploratory data analysis (EDA) and visualization.
 
@@ -106,7 +106,7 @@ Titanic-Survival-Analysis/
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # This file
 ├── .gitignore                   # Git ignore rules
-└── LICENSE                      # MIT License
+               
 ```
 
 ##  Getting Started
@@ -170,7 +170,7 @@ The dataset is from the [Kaggle Titanic competition](https://www.kaggle.com/c/ti
 
 ##  Author
 
-**Allen John**  
+**Allen John Isac**  
 Created as a Data Science Internship Task.
 
 ##  Contributing

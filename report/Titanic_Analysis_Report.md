@@ -1,6 +1,6 @@
 # Titanic Survival Analysis Report
 
-**Author:** Allen John  
+**Author:** Allen John Isac
 **Date:** June 2026  
 
 ---
